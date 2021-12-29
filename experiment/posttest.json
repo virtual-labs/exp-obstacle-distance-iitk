@@ -19,7 +19,9 @@
         "c": "Applied Load/stress",
         "d": "Exposure time"
       },
+      
       "correctAnswer": "b"
+      
     },
     {
       "question": "As the temperature increases, the creep rate:",
@@ -28,7 +30,9 @@
         "b": "Does not change",
         "c": "Decreases"
       },
+      
       "correctAnswer": "a"
+      
     },
     {
       "question": "As the obstacle distance Decreases, the creep rate:",
@@ -37,7 +41,9 @@
         "b": "Does not change",
         "c": "Increases"
       },
+      
       "correctAnswer": "a"
+      
     },
     {
       "question": "Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it mean",
@@ -47,7 +53,9 @@
         "c": "Working life of material-2 will be higher compared to material-1",
         "d": "Density of material-2 is higher than that of material-1"
       },
+      
       "correctAnswer": "a"
+      
     }
   ]
 }
