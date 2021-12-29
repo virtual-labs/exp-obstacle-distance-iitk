@@ -3,7 +3,7 @@ Obstacle is something which blocks your path. Roadblocks etc. could serve as art
 Results<br>
 Following are the creep transient results for some of the obstacle distances which have been tested:
 <img src="images/0.60.jpeg"><br><br>
-<img src="0.88.jpeg"><br><br>
-<img src="1.10.jpeg"><br><br>
+<img src="images/0.88.jpeg"><br><br>
+<img src="images/1.10.jpeg"><br><br>
 Conclusions<br><br>
-Conclusions.png
+<img src="images/1.10.jpeg"><br>
