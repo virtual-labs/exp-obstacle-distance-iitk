@@ -2,7 +2,7 @@ Obstacle is something which blocks your path. Roadblocks etc. could serve as art
 <img src="images/2.jpg"><br>
 Schematic diagram showing effect of obstacle distance on the creep deformation of a material<br><br>
 <b>Results</b><br>
-Following are the creep transient results for some of the obstacle distances which have been tested:
+Following are the creep transient results for some of the obstacle distances which have been tested:<br>
 <img src="images/0.60.jpeg"><br><br>
 <img src="images/0.88.jpeg"><br><br>
 <img src="images/1.10.jpeg"><br><br>
