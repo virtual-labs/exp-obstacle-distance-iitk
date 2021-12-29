@@ -6,4 +6,4 @@ Following are the creep transient results for some of the obstacle distances whi
 <img src="images/0.88.jpeg"><br><br>
 <img src="images/1.10.jpeg"><br><br>
 Conclusions<br><br>
-<img src="images/1.10.jpeg"><br>
+<img src="images/conclusion.PNG"><br>
