@@ -1,0 +1,61 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. In which state a balance between recovery and strain hardening is achieved?",
+      "answers": {
+        "a": "During instantaneous strain",
+        "b": "Primary Creep",
+        "c": "Secondary Creep",
+        "d": "Tertiary Creep"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "2. Which of the following DOES NOT affect creep rate:",
+      "answers": {
+        "a": "Equicohesive temperature",
+        "b": "Density of material",
+        "c": "Applied Load/stress",
+        "d": "Exposure time"
+      },
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "3. As the temperature increases, the creep rate:",
+      "answers": {
+        "a": "Increases",
+        "b": "Does not change",
+        "c": "Decreases"
+      },
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "4. As the obstacle distance Decreases, the creep rate:",
+      "answers": {
+        "a": "Decreases",
+        "b": "Does not change",
+        "c": "Increases"
+      },
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "5. Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it mean",
+      "answers": {
+        "a": "Working life of material-1 will be higher compared to material-2",
+        "b": "Working life of the material-1 will be same as that of material-2",
+        "c": "Working life of material-2 will be higher compared to material-1",
+        "d": "Density of material-2 is higher than that of material-1"
+      },
+      
+      "correctAnswer": "a"
+      
+    }
+  ]
+}

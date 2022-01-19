@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is Creep?",
+      "answers": {
+        "a": "Time independent elastic deformation at constant temperature",
+        "b": "Time independent plastic deformation at constant temperature",
+        "c": "Time dependent elastic deformation at constant stress",
+        "d": "Time dependent permanent deformation at a constant stress"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "2. Creep usually occurs at temperatures of: (where Tm is the melting point of the material).",
+      "answers": {
+        "a": "< 0.2 Tm",
+        "b": "> 0.4 Tm",
+        "c": "at Tm",
+        "d": "> Tm"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "3. In the primary/transient stage, the creep rate:",
+      "answers": {
+        "a": "Remains zero",
+        "b": "Increases with time",
+        "c": "Remains constant (non zero)",
+        "d": "Decreases with time"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "4. In the secondary /steady state, the creep rate:",
+      "answers": {
+        "a": "Remains zero",
+        "b": "Increases with time",
+        "c": "Remains constant (non zero)",
+        "d": "Decreases with time"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "5. In the tertiary state, the creep rate:",
+      "answers": {
+        "a": "Remains zero",
+        "b": "Rapidly increases with time",
+        "c": "Remains constant (non zero)",
+        "d": "Rapidly decreases with time"
+      },
+      "correctAnswer": "b"
+    }
+    
+  ]
+}
